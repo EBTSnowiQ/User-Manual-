@@ -1,2 +1,4 @@
 # User-Manual-
-Guide to use SnowiQ App
+Guide how to use SnowiQ App
+
+
