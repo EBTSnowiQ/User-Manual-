@@ -12,7 +12,7 @@ Once logged into the DA, Drivers will see the screen below. The screens display 
 
 ## Navigation 
 The diagram below highlights basic navigation controls and map elements of the Driver App.
-
+![Screenshot 2021-03-02 131342](https://user-images.githubusercontent.com/79857237/109694808-3667a500-7b59-11eb-8c58-4471ea1129be.png)
 
 1. User Profile Picture, Name, and Status – pressing on the Profile picture opens the Navigation Drawer 
 2. Weather widget – automatically updated based on location
