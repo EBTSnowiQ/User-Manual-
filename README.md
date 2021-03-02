@@ -29,9 +29,14 @@ The diagram below highlights basic navigation controls and map elements of the D
 
 ## Navigation Drawer
 Users can open the Navigation Drawer by pressing the User Profile picture icon as specified in the diagram above. The panel is divided into three sections:
-### 1. User Profile details 
-### 1. Supervisor details
-### 1. Operations menu
+#### 1. User Profile details:
+This section lists the profile details of logged in driver. To edit them, the user can press 'Profile' in the section below.
+
+#### 2. Supervisor details:
+Each driver has a Supervisor they report to and who assigns them work. The Supervisor's name and phone number are listed in this section, with the ability to contact the Supervisor directly from within the app, by pressing the green phone icon.
+
+#### 3. Operations menu:
+The Operations Menu as seen above is for a Driver without any active or future assignments. If a driver receives an assignment or needs to complete an active assignment, an actionable option will be added to the menu, which can be seen here.
 
 ![Screenshot 2021-03-02 132549](https://user-images.githubusercontent.com/79857237/109696248-d671fe00-7b5a-11eb-8e2a-61ad4544589e.png)
 
