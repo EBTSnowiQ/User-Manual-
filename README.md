@@ -27,5 +27,14 @@ The diagram below highlights basic navigation controls and map elements of the D
 11. Road hazard marker
 12. Button "Find my location on the map"
 
+## Navigation Drawer
+Users can open the Navigation Drawer by pressing the User Profile picture icon as specified in the diagram above. The panel is divided into three sections:
+1. User Profile details 
+1. Supervisor details
+1. Operations menu
+
+![Screenshot 2021-03-02 132549](https://user-images.githubusercontent.com/79857237/109696248-d671fe00-7b5a-11eb-8e2a-61ad4544589e.png)
+
+
 
 
